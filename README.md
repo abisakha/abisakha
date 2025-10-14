@@ -1,8 +1,6 @@
 ## Hello World i'm Abisakha Saif Alfath 👋
 ![Banner](./Purple%20Pixel%20Gaming%20Channel%20Banner.png)
 ## 📸 Screenshot Proyek
-![Tahapan Git](https://drive.google.com/uc?export=view&id=1w4EpTzz1yQQ6dUN6mZsmc-0ygPNRe2LG)
-![Pembuatan Branch](https://drive.google.com/uc?export=view&id=1T4Ti0jOwz2tlbvYxF9YjQIeEaP1zEgIB)
 
 # 
 Hi, I’m a Web Developer and currently an Informatics Engineering student at Amikom University Yogyakarta. Passionate about programming and constantly exploring the latest trends in web technologies, I enjoy building digital solutions that are both efficient and impactful.<br>With experience working on projects like:<br>- Machine Learning & AI: Predicting tuberculosis and hypertension using CNN models and ensemble learning<br>- Desktop Applications: C++, C# and WinForms-based hospital administration systems, ticketing,camera rental systems<br>- Web Platforms: E-commerce<br>I thrive on turning creative ideas into seamless, interactive experiences with clean, maintainable code. Whether it's building responsive websites, developing full-stack applications, or integrating modern web technologies, I’m always excited to learn, collaborate, and deliver impactful digital solutions.
